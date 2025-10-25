@@ -1,13 +1,13 @@
 ## 📐 Project Overview
-Height and weight exploratory analysis
-A compact, reproducible demonstration of loading, describing, visualizing, testing distributional assumptions, and performing correlation analysis on a height/weight dataset.
+- Height and weight exploratory analysis
+- A compact, reproducible demonstration of loading, describing, visualizing, testing distributional assumptions, and performing correlation analysis on a height/weight dataset.
 
 ### 📋 Purpose
-Provide a clear example of loading a tabular CSV, performing exploratory data analysis, checking normality assumptions, computing distributional summaries and skew, and using an appropriate correlation test and visualizations to assess the relationship between height and weight.
+- Provide a clear example of loading a tabular CSV, performing exploratory data analysis, checking normality assumptions, computing distributional summaries and skew, and using an appropriate correlation test and visualizations to assess the relationship between height and weight.
 
 
 ### 📚 Datasets in the Notebook
-- - Weight-Height CSV (local): contains columns such as Height, Weight, and Gender; loaded from a local Google Drive path in the notebook (replace the path with a local or remote CSV as needed).
+- Weight-Height CSV (local): contains columns such as Height, Weight, and Gender; loaded from a local Google Drive path in the notebook (replace the path with a local or remote CSV as needed).
 
 
 ## 🧰 Core techniques demonstrated
