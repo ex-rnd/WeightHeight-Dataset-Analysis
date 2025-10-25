@@ -2,7 +2,9 @@
 - Height and weight exploratory analysis
 - A compact, reproducible demonstration of loading, describing, visualizing, testing distributional assumptions, and performing correlation analysis on a height/weight dataset.
 
+<p align="center">
 <img width="852" height="547" alt="HeightWeight-ScatterPlot" src="https://github.com/user-attachments/assets/44e60e39-58ec-4564-a783-902b9151cd85" />
+</p>
 
 
 ### 📋 Purpose
